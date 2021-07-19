@@ -8,7 +8,7 @@ A simple project built in few hours using [express](https://expressjs.com/), [so
 
 ## Usage
 
-Go to the production server [here](https://spanion-video-chat.herokuapp.com/).
+Go to the production server [here](https://mtcst.herokuapp.com/).
 
 Enter your name and a room is generated instantly.
 
